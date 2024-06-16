@@ -5,5 +5,4 @@ xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 python:alpine3.19
-index.docker.io/cloudflare/cloudflared:latest
-dockerhub.azk8s.cn/cloudflare/cloudflared:latest
+cloudflare/cloudflared:latest
